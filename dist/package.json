@@ -12,7 +12,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "deploy": "gh -d dist",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -51,5 +50,5 @@
   "bugs": {
     "url": "https://github.com/Munna2816/CreditCard/issues"
   },
-  "homepage": "https://Munna2816.github.io/CreditCard#readme"
+  "homepage": "https://github.com/Munna2816/CreditCard#readme"
 }
