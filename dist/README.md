@@ -1,4 +1,4 @@
-# credit card details collections
+# Credit Card Holder's Details Collections
 This the website which will show the details of the credit card holders when we enter the details
 
 # Getting Started with Create React App
